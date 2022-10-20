@@ -1,0 +1,72 @@
+header{
+  background-color: lavender;
+  height: 30px;
+}
+#cel1{
+  background-color: #FFE4E1;
+  color: #9370DB;
+}
+#cel2{
+  background-color: #FAEBD7;
+  color: #9370DB;
+}
+#cel3{
+  background-color: #FAF0E6;
+  color: #9370DB;
+}
+#cel4{
+  background-color: #F5F5DC;
+  color: #9370DB;
+}
+#cel5{
+  background-color: #F5F5F5;
+  color: #9370DB;
+}
+#cel6{
+  background-color: #FFF0F5;
+  color: #9370DB;
+}
+#cel7{
+  background-color: #FDF5E6;
+  color: #9370DB;
+}
+#cel8{
+  background-color: #F0F8FF;
+  color: #9370DB;
+}
+#cel9{
+  background-color: #FFF5EE;
+  color: #9370DB;
+}
+#cel10{
+  background-color: #F8F8FF;
+  color: #9370DB;
+}
+#cel11{
+  background-color: #F0FFF0;
+  color: #9370DB;
+}
+#cel12{
+  background-color: #FFFAF0;
+  color: #9370DB;
+}
+#cel13{
+  background-color: #F0FFFF;
+  color: #9370DB;
+}
+#cel14{
+  background-color: #F5FFFA;
+  color: #9370DB;
+}
+#cel15{
+  background-color: #FFFAFA;
+  color: #9370DB;
+}
+#cel16{
+  background-color: #FFFFF0;
+  color: #9370DB;
+}
+footer{
+  background-color: thistle;
+  height: 30px;
+}
